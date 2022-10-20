@@ -1,4 +1,4 @@
-#Análisis de datos de ventas
+# Análisis de datos de ventas
 
  Se realiza un analisis sobre las ventas de una empresa para responder a las siguientes preguntas:
  
