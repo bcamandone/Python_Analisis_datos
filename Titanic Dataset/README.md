@@ -1,5 +1,6 @@
 # Titanic
 
+![2](https://user-images.githubusercontent.com/86261762/197585477-a58d5c2f-de0e-498d-81ea-055fe0a3e338.png)
 
 
 Sin dudas el Titanic es el dataset que, por excelencia usamos por primera vez para aprender y adentrarnos al mundo del análisis de datos. 
