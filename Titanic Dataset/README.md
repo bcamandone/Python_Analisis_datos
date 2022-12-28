@@ -32,5 +32,4 @@ Librerías
 - pandas
 - numpy
 - matplotlib
-
--seaborn
+- seaborn
