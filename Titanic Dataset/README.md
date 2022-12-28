@@ -28,6 +28,9 @@ Detección de outliers en la columna "Age", a través del método IQR y 𝗭-�
 
 
 
+
+
+
 Librerías
 - pandas
 - numpy
