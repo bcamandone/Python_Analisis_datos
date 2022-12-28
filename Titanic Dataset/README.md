@@ -26,6 +26,8 @@ Se realiza un análisis exploratorio de datos, para responder con estos últimos
 Detección de outliers en la columna "Age", a través del método IQR y 𝗭-𝗦𝗖𝗢𝗥𝗘
 
 
+
+
 Librerías
 - pandas
 - numpy
