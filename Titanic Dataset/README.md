@@ -22,7 +22,7 @@ En el cual se analizan las distintas posibilidades para agrupar datos
 ## 3) EDA - Dataset Titanic: 
 Se realiza un análisis exploratorio de datos, para responder con estos últimos  a preguntas como: ¿sobrevivieron mayor cantidad de hombres? sobrevivieron en mayor cantidad pasajeros de la primera clase? ¿Qué edad tenían los pasajeros? etc.
 
-## 4) Outliers 
+## 4) Outliers:
 Detección de outliers en la columna "Age", a través del método IQR y 𝗭-𝗦𝗖𝗢𝗥𝗘
 
 
