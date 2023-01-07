@@ -12,5 +12,6 @@ Librerías utilizadas en este repositorio:
 - numpy
 - matplotlib
 - seaborn
+- missingno
 
 👏 ¡Por favor, dame un ⭐️ si te gusta este repo!
