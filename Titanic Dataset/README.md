@@ -4,7 +4,7 @@
 
 
 Sin dudas el Titanic es el dataset que, por excelencia usamos por primera vez para aprender y adentrarnos al mundo del análisis de datos. 
-Este repositorio cuenta con 4 notebooks y el archivo csv. 
+Este repositorio cuenta con 5 notebooks y el archivo csv. 
 
 Notebooks: 
 
@@ -25,10 +25,9 @@ Se realiza un análisis exploratorio de datos, para responder con estos últimos
 ## 4) Outliers:
 Detección de outliers en la columna "Age", a través del método IQR y 𝗭-𝗦𝗖𝗢𝗥𝗘
 
-
-
-
-
+## 5) Visualizar datos faltantes con missingno:
+Se utiliza la libreria missingno, que proporciona una serie de visualizaciones para comprender la presencia y distribución de datos faltantes. 
+Se pintan: un gráfico de barras, gráfico de matriz, mapa de calor y dendrograma.
 
 
 Librerías
@@ -36,3 +35,4 @@ Librerías
 - numpy
 - matplotlib
 - seaborn
+- missingno
