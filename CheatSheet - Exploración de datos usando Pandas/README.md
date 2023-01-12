@@ -27,3 +27,4 @@ El CheatSheet cuenta con 9 secciones:
 9.Estadisticos basicos
 
 
+👏 ¡Por favor, dame un ⭐️ si te gusta este repo!
