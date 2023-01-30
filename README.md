@@ -13,5 +13,6 @@ Librerías utilizadas en este repositorio:
 - matplotlib
 - seaborn
 - missingno
+- sweetviz
 
 👏 ¡Por favor, dame un ⭐️ si te gusta este repo!
