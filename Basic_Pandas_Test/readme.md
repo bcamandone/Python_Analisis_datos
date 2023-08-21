@@ -6,4 +6,4 @@
 Pandas es una biblioteca de Python ampliamente utilizada en ciencia de datos para la manipulación y análisis de datos.
 
 👩‍💻 ¿Cómo funciona?
-Simplemente sigue este enlace [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bcamandone/Basic_Pandas_Test/Basic_Pandas_test.ipynb) y ¡comienza a responder las preguntas!
+Simplemente sigue este enlace [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bcamandone/Basic_Pandas_Test/blob/master/Basic_Pandas_test.ipynb) y ¡comienza a responder las preguntas!
