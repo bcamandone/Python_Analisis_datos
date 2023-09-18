@@ -8,12 +8,12 @@ Python se ha convertido en el lenguaje de programación más utilizado a la hora
 
 Librerías utilizadas en este repositorio: 
 
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- missingno
-- sweetviz
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Missingno
+- Sweetviz
 - BeautifulSoup
 - Tabula
 - Datatile
