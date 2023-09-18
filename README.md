@@ -16,5 +16,7 @@ Librerías utilizadas en este repositorio:
 - sweetviz
 - BeautifulSoup
 - Tabula
+- Datatile
+- FastEDA
 
 # ¡Por favor, dame un ⭐️ si te gusta y utilizas este repo! 👏
