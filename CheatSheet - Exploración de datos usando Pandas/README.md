@@ -1,7 +1,7 @@
 ## Exploración de datos usando Pandas
 
 
-Este CheatSheet realizado en Jupyter notebook contiene código de ejemplo para ejecutar una Exploración de datos usando Pandas
+Este CheatSheet que realice en Jupyter notebook contiene código de ejemplo para ejecutar una Exploración de datos usando Pandas
 
 El dataset que utilice es el famoso del Titanic!
 
