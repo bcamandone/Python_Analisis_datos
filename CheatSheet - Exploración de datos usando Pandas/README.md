@@ -30,7 +30,7 @@ El CheatSheet cuenta con 12 secciones:
 
 11. Realizar cálculos y agrupaciones
 
-12. Estadisticos basicos
+12. Estadísticos básicos
 
 
 👏 ¡Por favor, dame un ⭐️ si te gusta este repo!
