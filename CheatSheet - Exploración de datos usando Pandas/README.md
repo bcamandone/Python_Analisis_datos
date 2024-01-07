@@ -12,19 +12,25 @@ El CheatSheet cuenta con 9 secciones:
 
 2. Obtener una primera vista de los datos
 
-3. Renombrar una columna
+3. Modificar el tipo de datos de una columna
 
-4. Seleccionar y filtrar
+4. Renombrar una columna
 
-5. Manejo de valores faltantes
+5. Ordenar
 
-6. Crear una nueva columna
+6. Seleccionar y filtrar 
 
-7. Identificar valores únicos
+7. Chequear duplicados
 
-8. Realizar cálculos y agrupaciones
+8. Manejo de valores faltantes
 
-9. Estadisticos basicos
+9. Crear una nueva columna
+
+10. Identificar valores únicos
+
+11. Realizar cálculos y agrupaciones
+
+12. Estadisticos basicos
 
 
 👏 ¡Por favor, dame un ⭐️ si te gusta este repo!
